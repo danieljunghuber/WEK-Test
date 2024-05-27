@@ -1,0 +1,8 @@
+[
+    {"db640":"Ws","bezeichnung":"Wien Westbahnhof (in Ws)","fgsysId":2511},
+    {"db640":"Ow","bezeichnung":"Wien Westbf-Fbf (in Ws)","fgsysId":1648},
+    {"db640":"Pz","bezeichnung":"Wien Penzing (in Pz)","fgsysId":1797},
+    {"db640":"Dz","bezeichnung":"Wien Dancing (in Pz)","fgsysId":1798},
+    {"db640":"Sz","bezeichnung":"Wien Schranzing (in Pz)","fgsysId":1799},
+    {"db640":"Lz","bezeichnung":"Wien Langzing (in Pz)","fgsysId":1800}
+]
